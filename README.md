@@ -19,5 +19,5 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/andriyenko_oleg
+[instagram]: https://www.instagram.com/andriienko_oleg
 [twitter]: https://twitter.com/OlegAndriyenko
